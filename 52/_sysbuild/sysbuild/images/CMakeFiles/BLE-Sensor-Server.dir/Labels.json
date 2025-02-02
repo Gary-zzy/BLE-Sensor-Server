@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/Gary/Desktop/Zephyr/BLE-Sensor-Server/52/_sysbuild/sysbuild/images/CMakeFiles/BLE-Sensor-Server"
+		},
+		{
+			"file" : "C:/Users/Gary/Desktop/Zephyr/BLE-Sensor-Server/52/_sysbuild/sysbuild/images/CMakeFiles/BLE-Sensor-Server.rule"
+		},
+		{
+			"file" : "C:/Users/Gary/Desktop/Zephyr/BLE-Sensor-Server/52/_sysbuild/sysbuild/images/CMakeFiles/BLE-Sensor-Server-complete.rule"
+		},
+		{
+			"file" : "C:/Users/Gary/Desktop/Zephyr/BLE-Sensor-Server/52/_sysbuild/sysbuild/images/BLE-Sensor-Server-prefix/src/BLE-Sensor-Server-stamp/BLE-Sensor-Server-build.rule"
+		},
+		{
+			"file" : "C:/Users/Gary/Desktop/Zephyr/BLE-Sensor-Server/52/_sysbuild/sysbuild/images/BLE-Sensor-Server-prefix/src/BLE-Sensor-Server-stamp/BLE-Sensor-Server-configure.rule"
+		},
+		{
+			"file" : "C:/Users/Gary/Desktop/Zephyr/BLE-Sensor-Server/52/_sysbuild/sysbuild/images/BLE-Sensor-Server-prefix/src/BLE-Sensor-Server-stamp/BLE-Sensor-Server-download.rule"
+		},
+		{
+			"file" : "C:/Users/Gary/Desktop/Zephyr/BLE-Sensor-Server/52/_sysbuild/sysbuild/images/BLE-Sensor-Server-prefix/src/BLE-Sensor-Server-stamp/BLE-Sensor-Server-install.rule"
+		},
+		{
+			"file" : "C:/Users/Gary/Desktop/Zephyr/BLE-Sensor-Server/52/_sysbuild/sysbuild/images/BLE-Sensor-Server-prefix/src/BLE-Sensor-Server-stamp/BLE-Sensor-Server-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/Gary/Desktop/Zephyr/BLE-Sensor-Server/52/_sysbuild/sysbuild/images/BLE-Sensor-Server-prefix/src/BLE-Sensor-Server-stamp/BLE-Sensor-Server-patch.rule"
+		},
+		{
+			"file" : "C:/Users/Gary/Desktop/Zephyr/BLE-Sensor-Server/52/_sysbuild/sysbuild/images/BLE-Sensor-Server-prefix/src/BLE-Sensor-Server-stamp/BLE-Sensor-Server-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"BLE-Sensor-Server"
+		],
+		"name" : "BLE-Sensor-Server"
+	}
+}

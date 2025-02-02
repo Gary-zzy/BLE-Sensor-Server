@@ -1,0 +1,13 @@
+# Target labels
+ BLE-Sensor-Server
+# Source files and their labels
+C:/Users/Gary/Desktop/Zephyr/BLE-Sensor-Server/52/_sysbuild/sysbuild/images/CMakeFiles/BLE-Sensor-Server
+C:/Users/Gary/Desktop/Zephyr/BLE-Sensor-Server/52/_sysbuild/sysbuild/images/CMakeFiles/BLE-Sensor-Server.rule
+C:/Users/Gary/Desktop/Zephyr/BLE-Sensor-Server/52/_sysbuild/sysbuild/images/CMakeFiles/BLE-Sensor-Server-complete.rule
+C:/Users/Gary/Desktop/Zephyr/BLE-Sensor-Server/52/_sysbuild/sysbuild/images/BLE-Sensor-Server-prefix/src/BLE-Sensor-Server-stamp/BLE-Sensor-Server-build.rule
+C:/Users/Gary/Desktop/Zephyr/BLE-Sensor-Server/52/_sysbuild/sysbuild/images/BLE-Sensor-Server-prefix/src/BLE-Sensor-Server-stamp/BLE-Sensor-Server-configure.rule
+C:/Users/Gary/Desktop/Zephyr/BLE-Sensor-Server/52/_sysbuild/sysbuild/images/BLE-Sensor-Server-prefix/src/BLE-Sensor-Server-stamp/BLE-Sensor-Server-download.rule
+C:/Users/Gary/Desktop/Zephyr/BLE-Sensor-Server/52/_sysbuild/sysbuild/images/BLE-Sensor-Server-prefix/src/BLE-Sensor-Server-stamp/BLE-Sensor-Server-install.rule
+C:/Users/Gary/Desktop/Zephyr/BLE-Sensor-Server/52/_sysbuild/sysbuild/images/BLE-Sensor-Server-prefix/src/BLE-Sensor-Server-stamp/BLE-Sensor-Server-mkdir.rule
+C:/Users/Gary/Desktop/Zephyr/BLE-Sensor-Server/52/_sysbuild/sysbuild/images/BLE-Sensor-Server-prefix/src/BLE-Sensor-Server-stamp/BLE-Sensor-Server-patch.rule
+C:/Users/Gary/Desktop/Zephyr/BLE-Sensor-Server/52/_sysbuild/sysbuild/images/BLE-Sensor-Server-prefix/src/BLE-Sensor-Server-stamp/BLE-Sensor-Server-update.rule

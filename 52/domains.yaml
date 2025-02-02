@@ -1,7 +1,7 @@
-default: sensor_server
-build_dir: C:/Users/Gary/Desktop/Zephyr/sensor_server/52
+default: BLE-Sensor-Server
+build_dir: C:/Users/Gary/Desktop/Zephyr/BLE-Sensor-Server/52
 domains:
-  - name: sensor_server
-    build_dir: C:/Users/Gary/Desktop/Zephyr/sensor_server/52/sensor_server
+  - name: BLE-Sensor-Server
+    build_dir: C:/Users/Gary/Desktop/Zephyr/BLE-Sensor-Server/52/BLE-Sensor-Server
 flash_order:
-  - sensor_server
+  - BLE-Sensor-Server
