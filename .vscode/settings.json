@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "sensor_types.h": "c",
+        "random.h": "c",
+        "model_handler.h": "c"
+    }
+}
